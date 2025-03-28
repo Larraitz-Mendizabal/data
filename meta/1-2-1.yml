@@ -1,0 +1,80 @@
+ # Metadatos nacionales (ficha metodológica)
+ 
+indicador_disponible: >-
+  GRAFICO.1-2-1-titulo
+
+objetivo_global: objetivo_largo.1-titulo
+meta_global: meta_largo.1-2-titulo
+#  indicador_onu_global: indicador_largo.1-2-1-titulo
+
+
+definicion: >-
+  Proportion of people with income per consumption unit below 60% of the median of the Basque Autonomous Community (modified OECD scale)
+
+formula: |
+
+  $$PP_{RPR}^{t} = \frac{P_{RPR}^{t}}{P^{t}} \cdot 100$$
+
+  where:
+
+  $P_{RPR}^{t} =$ population with income below 60% of median income per unit of consumption (modified OECD scale) in year $t$
+
+  $P^{t} =$ total population in year $t$
+
+desagregacion: >-
+  Sex
+
+periodicidad: FUENTE.FREQ_A2
+
+observaciones: >-
+  The number of consumption units in a household 
+  is calculated using the modified OECD scale, which assigns a weight of 1 to the 
+  first person aged 14 or over, a weight of 0.5 for other people aged 14 or over 
+  and a weight of 0.3 for people under 14 years of age.
+
+texto_oceca: FUENTE.oceca
+
+ # Metadatos mundiales (Descripción del indicador)  
+
+
+justificacion_global: |
+
+  The At-Risk-of-Poverty Rate or monetary poverty is one of the key indicators 
+  for monitoring poverty in the European Union.
+
+  This indicator measures neither wealth nor poverty, but low income in comparison with other residents of the territory, 
+  which does not necessarily imply a low standard of living.
+
+  The at-risk-of-poverty rate is the proportion of people 
+  with an equivalent disposable income (after social transfers) below the 
+  at-risk-of-poverty threshold, which is set by convention in the EU in the 
+  60% of the median equivalent disposable income after social transfers 
+  in a territory.
+
+  To account for the impact of differences in household size and composition, 
+  a household's disposable income (total income, after taxes and other deductions, which is 
+  available to spend or save) is divided by the number of household members converted into adult 
+  equivalents (units of consumption). In the EU, an equivalence factor calculated according to 
+  the modified OECD scale proposed in 1994 is applied.
+
+  Source: Eurostat
+
+dato_global: >-
+  <a href="https://ec.europa.eu/eurostat/databrowser/view/sdg_01_20/default/table?lang=en&category=sdg.sdg_01">People at risk
+  of monetary poverty after social transfers - EU-SILC and ECHP surveys(sdg_01_20)</a> Eurostat
+
+comparabilidad: >-
+  
+  The available indicator complies with the metadata of the United Nations indicator. For the calculation 
+  of the poverty rate of the Autonomous Community of the Basque Country and sex, the poverty threshold  
+  of the Autonomous Community applies.
+
+indicador_meta_enlace: |
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf">Metadata 1-2-1.pdf</a>
+
+  <a href="https://ec.europa.eu/eurostat/cache/metadata/en/sdg_01_20_esmsip2.htm">Metadata Eurostat (sdg_01_20)</a>
+
+informacion_interes: 
+
+national_data_updated_date: '2024-07-29'
+national_metadata_updated_date: '2024-07-29'
