@@ -25,10 +25,9 @@ formula: |
 
   <b>Modu egokian tratatutako etxeko hondakin-uren fluxuen proportzioa</b>
 
-    $$PCC_{\text{ur-arazketa}}^{t} =
-    \left( \frac{CC_{\text{ur-arazketa}}^{t}}{CC^{t}} \cdot 100 \right)$$
+    $$PCC_{\text{ur-arazketa}}^{t} = \left( \frac{CC_{\text{ur-arazketa}}^{t}}{CC^{t}} \cdot 100 \right)$$
 
-  non:
+  non: 
 
   $CC_{\text{ur-arazketa}}^{t} =$ 2.000 biztanle baliokidetik gorako hiri-aglomerazioei dagokien karga 
   kutsatzailea, hondakin-urak behar bezala arazten dituena $t$ urtean
@@ -105,8 +104,7 @@ justificacion_global: |
 dato_global:
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du
-.
+  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du. 
 
 indicador_meta_enlace: 
   '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf">Metadatuak 6-3-1.pdf</a> (ingelesez bakarrik)'
