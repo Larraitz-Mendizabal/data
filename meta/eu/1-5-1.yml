@@ -16,7 +16,7 @@ formula: |
 
   donde:
 
-  $D_{hondamendiak}^{t} =$ hondamendi naturalei esleitutako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
+  $D_{hondamendiak}^{t} =$ hondamendi naturalei egotzitako heriotzak (GNS-10eko X30-X39 kodeak) $t$ urtean
 
   $P^{t} =$ biztanleria $t$ urtean
 
@@ -54,7 +54,7 @@ justificacion_global: |
   Iturria: Nazio Batuen Estatistika Dibisioa
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
+  EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf">Metadatuak 1-5-1.pdf</a> (ingelesez bakarrik)'
 informacion_interes: 

@@ -13,27 +13,27 @@ definicion: >-
   murrizteko tokiko estrategiak hartzen eta ezartzen dituzten tokiko gobernuen ehunekoa   
 
 formula: |
-  <b>Larrialdietarako udal-plan bat duten udalerrien ehunekoa</b>
+  <b>Larrialdietarako udal-plana duten udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, udalerri}^{t} = \frac{MUN_{RRD\, udalerri}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{RRD\, udalerria}^{t} = \frac{MUN_{RRD\, udalerria}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $MUN_{RRD\, udalerri}^{t} =$ larrialdietarako udal-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+  $MUN_{RRD\, udalerria}^{t} =$ larrialdietarako udal-planak dituzten udalerrien kopurua, $t$ urtean
 
-  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+  $MUN^{t} =$ udalerriak $t$ urtean
 
    <br>
 
-  <b>Larrialdietako lurralde-plan batek estalitako udalerrien ehunekoa</b>
+  <b>Larrialdietarako lurralde-plan batek estalitako udalerrien ehunekoa</b>
 
-  $$PMUN_{RRD\, lurralde}^{t} = \frac{MUN_{RRD\, lurralde}^{t}}{MUN^{t}} \cdot 100$$
+  $$PMUN_{RRD\, lurraldea}^{t} = \frac{MUN_{RRD\, lurraldea}^{t}}{MUN^{t}} \cdot 100$$
 
   non:
 
-  $MUN_{RRD\, lurralde}^{t} =$ larrialdietarako lurralde-planak dituzten tokiko gobernuen kopurua, $t$ urtean
+  $MUN_{RRD\, lurraldea}^{t} =$ larrialdietarako lurralde-planak dituzten udalerrien, $t$ urtean
 
-  $MUN^{t} =$ tokiko gobernuak, $t$ urtean
+  $MUN^{t} =$ udalerriak, $t$ urtean
   
 desagregacion: 
 
@@ -80,11 +80,11 @@ justificacion_global: |
   Iturria: Nazio Batuen Estatistika Dibisioa  
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf">Metadatuak 1-5-4.pdf</a> (ingelesez bakarrik)'
 
 informacion_interes: 
 
-national_data_updated_date: '2024-07-29'
-national_metadata_updated_date: '2024-07-29'
+national_data_updated_date: ''
+national_metadata_updated_date: ''

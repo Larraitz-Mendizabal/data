@@ -21,13 +21,13 @@ formula: |
 
   non:
 
-  $IFPA_ {m} ^ {t} $= elikagaien prezioen anomalien adierazlea  $m$ hilean eta $t$ urtean
+  $IFPA_ {m} ^ {t} $= elikagaien prezioen anomalien adierazlea $m$ hilean eta $t$ urtean
 
   <br>
 
   <b>Elikagaien kontsumo-prezioen indizea</b>
 
-  $$IPC_ {alimentos} ^ {t} =\frac {1} {12}\cdot\sum_ {m = 1} ^ {12} {elikagaiak, m} ^ {t} $$
+  $$IPC_ {elikagaiak} ^ {t} =\frac {1} {12}\cdot\sum_ {m = 1} ^ {12} {elikagaiak, m} ^ {t} $$
 
   non:
 
@@ -36,7 +36,7 @@ formula: |
 
 
 desagregacion: |
-  Productos: elikagaiak (guztiak), zerealak eta deribatuak, ogia, arrautzak, esnea, olio eta koipeak, fruta freskoak eta lekaleak eta barazki freskoak
+  Productos: elikagaiak (guztiak); zerealak eta deribatuak; ogia; arrautzak; esnea; olio eta koipeak; fruta freskoak; lekaleak eta barazki freskoak
 
   Lurralde historikoa
 
@@ -64,10 +64,10 @@ justificacion_global: |
   buruz eskuragarri dagoen beste informazio batekin.  
 
 dato_global: >-
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Elikagaien prezio anormal altuak edo nahiko altuak erregistratzen dituzten herrialdeen proportzioa, elikagaien prezioen anomalien adierazlearen arabera (%) AG_FPA_HMFP</a> UNSTATS
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Elikagaien prezio anormalki altuak edo nahiko altuak erregistratzen dituzten herrialdeen proportzioa, elikagaien prezioen anomalien adierazlearen arabera (%) AG_FPA_HMFP</a> UNSTATS
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
+  EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
   informazio osagarria ematen du.
 
 indicador_meta_enlace: >-

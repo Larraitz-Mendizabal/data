@@ -13,13 +13,13 @@ definicion: >-
 
 formula: |
 
-  $$TCA_{hepatitis B}^{t} = \frac{CA_{hepatitis B}^{t}}{P^{t}} \cdot 100.000$$
+  $$TCA_{B hepatitisa}^{t} = \frac{CA_{B hepatitisa}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
-  $CA_{hepatitis B}^{t} =$ Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako B hepatitisaren kasu autoktonoak $t$ urtean 
+  $CA_{B hepatitisa}^{t} =$ Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako B hepatitisaren kasu autoktonoak $t$ urtean 
 
-  $P^{t} =$ biztanleria uztailaren 1ean $t$ urtean
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
   Sexua
@@ -28,7 +28,7 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-  Kasu autoktonoak dira lurralde nazionalean gaixotasuna harrapatu den kasuak.
+  Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak.
 
 texto_oceca: FUENTE.oceca
 
