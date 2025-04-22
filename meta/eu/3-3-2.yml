@@ -15,11 +15,11 @@ formula: |
 
   $$TCA_{tuberkulosia}^{t} = \frac{CA_{tuberkulosia}^{t}}{P^{t}} \cdot 100.000$$
 
-  donde:
+  non:
 
   $CA_{tuberkulosia}^{t} =$ Zaintza Epidemiologikoko Sare Nazionalari (RENAVE) jakinarazitako tuberkulosi-kasu autoktonoak $t$ urtean 
 
-  $P^{t} =$ biztanleria uztailaren 1ean $t$ urtean
+  $P^{t} =$ biztanleria $t$ urteko uztailaren 1ean 
 
 desagregacion: >- 
   Sexua
@@ -28,7 +28,7 @@ periodicidad: FUENTE.FREQ_A
 
 
 observaciones: >-
-  Kasu autoktonoak dira lurralde nazionalean gaixotasuna harrapatu den kasuak
+  Kasu autoktonoak dira gaixotasuna lurralde nazionalean harrapatu dutenak
 
 texto_oceca: FUENTE.oceca
 
@@ -54,7 +54,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf">Metadatuak 3-3-2.pdf</a> (ingelesez bakarrik)'
 

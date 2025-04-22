@@ -9,13 +9,13 @@ meta_global: meta_largo.5-a-titulo
 
 
 definicion: >-
-  Esparru juridikoak (ohiturazko zuzenbidea barne) zenbateraino bermatzen duen emakumeek 
-  jabetzarako duten eskubide berdintasuna edo lurren kontrola, sei proxieren ebaluaziotik neurtuta.
+  Lege-esparruak (ohiturazko zuzenbidea barne) zenbateraino bermatzen duen lurren jabetza edo kontrolerako 
+  emakumeen eskubide berdintasuna, sei proxieren ebaluazioaren bidez.
 
 formula: |
 
 
-  $$MJDMPT^{t} = \begin{cases} 1 & \text{Proxietako bat ere ez badago legerian presente 𝑡 urtean} \\ 2 & \text{Proxietako bat legerian agertzen bada 𝑡 urtean} \\ 3 & \text{Proxietako bi legedian agertzen badira 𝑡 urtean} \\ 4 & \text{Proxietako hiru legedian agertzen badira 𝑡 urtean} \\ 5 & \text{Proxietako lau legedian agertzen badira 𝑡 urtean} \\ 6 & \text{Proxietako bost edo sei legedian agertzen badira 𝑡 urtean} \end{cases} $$
+  $$MJDMPT^{t} = \begin{cases} 1 & \text{Proxietako bat ere ez dago legerian 𝑡 urtean} \\ 2 & \text{Proxietako bat dago legerian 𝑡 urtean} \\ 3 & \text{Proxietako bi daude legerian 𝑡 urtean} \\ 4 & \text{Proxietako hiru daude legerian 𝑡 urtean} \\ 5 & \text{Proxietako lau daude legerian 𝑡 urtean} \\ 6 & \text{Proxietako bost edo sei daude legerian 𝑡 urtean} \end{cases} $$
 
 
 periodicidad: FUENTE.FREQ_A
@@ -25,15 +25,15 @@ desagregacion: >-
 
 observaciones: |
 
-  Adierazleak neurtzen du arau-esparruak zenbateraino bermatzen duen emakumeen jabetzarako eta lurren 
-  kontrolerako eskubide-berdintasuna, lege-esparrua nazioartean onartutako sei proxieren aurrean kontrastatuz, 
-  zehazki, Emakumearen aurkako diskriminazio-modu guztiak ezabatzeari buruzko Konbentzioan eta Lurra edukitzeko 
-  gobernantza arduratsuari buruzko borondatezko jarraibideetan:
-   - Proxy A: Lurren baterako erregistroa nahitaezkoa edo pizgarria
-   - Proxy B: Lurren transakzioetarako ezkontideen adostasunaren betebeharra
+  Adierazleak neurtzen du lege-esparruak zenbateraino bermatzen duen lurren jabetza edo kontrolerako 
+  emakumeen eskubide berdintasuna, lege-esparrua nazioartean onartutako sei proxierekiko alderatuz; proxie horiek
+  Emakumearen aurkako diskriminazio-modu guztiak ezabatzeari buruzko Konbentzioan eta Lurra edukitzeko 
+  gobernantza arduratsuari buruzko borondatezko jarraibideetan onartutakoak dira:
+   - Proxy A: Lurren nahitaezko edo sustatutako erregistro bateratua
+   - Proxy B: Lurren transakzioetarako ezkontidearen adostasunaren betebeharra
    - Proxy C: Herentzia-eskubideen berdintasuna
-   - Proxy D: Emakumeek lurrak gehiago eduki eta kontrolatzeko finantza-baliabideak esleitzea
-   - Proxy E: Ohiturazko eskubidea aitortzen duten legezko sistemetan, emakumeak jabetzarako duen eskubideen gaineko babes esplizitua dago
+   - Proxy D: Emakumeen lurren jabetza eta kontrola areagotzeko finantza-baliabideen esleipena
+   - Proxy E: Ohiturazko eskubidea aitortzen duten legezko sistemetan, emakumeen jabetzarako eskubideen babes esplizitua egotea
    - Proxy F: Nahitaezko kuotak lurren kudeaketan eta administrazioan  
 
 
@@ -71,12 +71,10 @@ justificacion_global: |
 
 dato_global: >-
 
-  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Esparru juridikoak (ohiturazko zuzenbidea barne) emakumeek lurraren jabetzarako eta/edo kontrolerako duten eskubide-berdintasuna zenbateraino bermatzen duen (1 = ebidentziarik gabe 6 = berme-maila altuenak) SG_LGL_LNDFEMOD</a> UNSTATS
-
-
+  <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=5.a.2&seriesCode=SG_LGL_LNDFEMOD&areaCode=  276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=Total">Lege-esparruak (ohiturazko zuzenbidea barne) zenbateraino bermatzen duen lurren jabetza edo kontrolerako emakumeen eskubide berdintasuna (1 = ebidentziarik gabe 6 = berme-maila altuenak) SG_LGL_LNDFEMOD</a> UNSTATS 
 
 comparabilidad: >-
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu 
 
 indicador_meta_enlace: >-
   <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02.pdf">Metadatuak 5-a-2.pdf</a> (ingelesez bakarrik)

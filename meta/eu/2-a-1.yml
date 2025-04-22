@@ -10,8 +10,8 @@ definicion: |
   Nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina (BEG) sektore guztien BEGarekiko, 
   uneko prezioetan.
 
-  Nekazaritzako balio agregatua eta BPG Europako Kontu Sisteman (KSE-2010) oinarritzen dira. Nekazaritza 
-  nekazaritza, basogintza, arrantza eta ehizaren sektoreari dagokio (EJSNren A atala 2009 edo CIIU Ber4)
+  Nekazaritzako balio erantsia eta BPGa Europako Kontu Sisteman (KSE-2010) oinarritzen dira. Nekazaritza terminoa 
+  nekazaritza, basogintza, arrantza eta ehizaren sektoreari dagokio (EJSN 2009ren edo CIIU Ver4ren A atala)
 
 formula: |
 
@@ -19,9 +19,9 @@ formula: |
 
   non:
 
-  $VAB_{nekazaritza}^{t} =$ nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina, prezio arruntetan $t$ urtean
+  $VAB_{nekazaritza}^{t} =$ nekazaritza, abeltzaintza eta arrantza sektorearen balio erantsi gordina, uneko prezioetan $t$ urtean
 
-  $PIB^{t} =$  barne-produktu gordina, prezio arruntetan $t$ urtean
+  $PIB^{t} =$  barne-produktu gordina, uneko prezioetan $t$ urtean
 
 
 desagregacion: |

@@ -9,13 +9,13 @@ meta_global: meta_largo.3-2-titulo
 
 
 definicion: >-
-  5 urtetik beherakoen heriotzak, 1.000 jaiotzako
+  5 urtetik beherakoen heriotzak 1.000 jaiotzako
 
 formula: |
 
   $$TM_{0-4}^{t} = \frac{D_{0-4}^{t}}{N^{t}} \cdot 1.000$$
 
-  donde:
+  non:
 
   $D_{0-4}^{t} =$ 5 urtetik beherakoen heriotzak $t$ urtean
 
@@ -53,7 +53,7 @@ dato_global: >-
 
 
 comparabilidad: >- 
-  Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+  EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 
 indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf">Metadatuak 3-2-1.pdf</a> (ingelesez bakarrik)'
 
