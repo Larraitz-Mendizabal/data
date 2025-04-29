@@ -7,14 +7,15 @@ objetivo_global: objetivo_largo.2-titulo
 meta_global: meta_largo.2-4-titulo
 #  indicador_onu_global:
 
-definicion: >-
-  Serie erabilgarriak: 
+definicion: |
 
-  <b> Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
+  Adierazle honek bi serie ditu: 
+
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3)</b>
   
-  <b>Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako</b>
+  <b> - Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) hektareako:</b> 
   Nekazaritzaren eta abeltzaintzaren amoniako-isuriak (NH3) laborantzarako, belardietarako 
-  eta larreetarako hektarea bakoitzeko
+  eta larreetarako hektarea bakoitzeko 
 
 
 formula: |
@@ -39,7 +40,7 @@ formula: |
 
   $ENH3_{nekazaritza}^{t}$ = nekazaritzaren amoniako-isuriak $t$ urtean
 
-  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urteant$
+  $ENH3_{abeltzaintza}^{t}$ = abeltzaintzaren amoniako-isuriak $t$ urtean
 
   $S_{labore-lurrak}^{t}$ = labore-lurren azalera $t$ urtean
 

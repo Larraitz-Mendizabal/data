@@ -8,35 +8,35 @@ meta_global: meta_largo.2-c-titulo
 #  indicador_onu_global: global_indicators.2-c-1-title
 
 definicion: |
-  Adierazle honek bi denborazko serie ditu:
+  Adierazle honek bi serie ditu:
 
-   - Elikagaien prezioen anomalien adierazlea
-   - Elikagaien kontsumo-prezioen indizea
+   <b> - Elikagaien prezioen anomalien adierazlea</b>
+   <b> - Elikagaien kontsumo-prezioen indizea</b>
 
 formula: |
 
   <b>Elikagaien prezioen anomalien adierazlea</b>
 
-  $$IFPA ^ {t} =\frac {1} {12}\cdot\sum_ {m = 1} ^ {12} IFPA_ {m} ^ {t} $$
+  $$IFPA^{t} = \frac{1}{12} \cdot \sum_{m=1}^{12} IFPA_{m}^{t}$$
 
   non:
 
-  $IFPA_ {m} ^ {t} $= elikagaien prezioen anomalien adierazlea $m$ hilean eta $t$ urtean
+  $IFPA_{m}^{t} $= elikagaien prezioen anomalien adierazlea $t$ urteko $m$ hilean  
 
   <br>
 
   <b>Elikagaien kontsumo-prezioen indizea</b>
 
-  $$IPC_ {elikagaiak} ^ {t} =\frac {1} {12}\cdot\sum_ {m = 1} ^ {12} {elikagaiak, m} ^ {t} $$
+  $$IPC_ {elikagaiak}^{t} =\frac{1}{12} \cdot \sum_{m=1}^{12} IPC_{elikagaiak,m}^{t}$$
 
   non:
 
-  $IPC_ {elikagaiak, m} ^ {t}$= elikagaien kontsumo-prezioen indizea $m$ hilean eta $t$ urtean
+  $IPC_{elikagaiak, m}^{t}$= elikagaien kontsumo-prezioen indizea $t$ urteko $m$ hilean  
 
 
 
 desagregacion: |
-  Productos: elikagaiak (guztiak); zerealak eta deribatuak; ogia; arrautzak; esnea; olio eta koipeak; fruta freskoak; lekaleak eta barazki freskoak
+  Produktuak: elikagaiak (guztiak); zerealak eta deribatuak; ogia; arrautzak; esnea; olio eta koipeak; fruta freskoak; lekaleak eta barazki freskoak
 
   Lurralde historikoa
 
@@ -44,7 +44,11 @@ observaciones: >-
 
 
 periodicidad: FUENTE.FREQ_A
-texto_oceca: FUENTE.oceca
+texto_oceca: >-
+
+  "Elikagaien kontsumo-prezioen indizea" seriea autonomia-erkidegoetako estatistika-organo nagusien 
+  arteko metodologia harmonizatua erabiliz kalkulatu da. 
+
 
  # Metadatos mundiales (Descripción del indicador)  
 
@@ -61,7 +65,9 @@ justificacion_global: |
   batek merkatu jakin batean une jakin batean duen prezioa anormalki altua edo baxua den 
   zehazteko elementu bakar gisa, tokiko politiken zuzeneko ondorioak direla eta. Emaitzak 
   aztertu behar dira merkatuaren oinarriei, testuinguru makroekonomikoari eta kanpoko shockei 
-  buruz eskuragarri dagoen beste informazio batekin.  
+  buruz eskuragarri dagoen beste informazio batekin. 
+
+  Iturria: Nazio Batuen Estatistika Saila 
 
 dato_global: >-
   <a href="https://unstats.un.org/sdgs/dataportal/analytics/SingleSeries?indicators=2.c.1&seriesCode=AG_FPA_HMFP&areaCode=276,40,56,100,196,191,208,703,705,724,233,246,250,300,528,348,372,380,428,440,442,470,616,620,203,642,752,1,202,14,17,18,11,747,15,145,62,143,34,753,30,35,419,29,13,5,9,54,57,61,53,513,150,21,432,199,722&period=3&table=ABNORMAL">Elikagaien prezio anormalki altuak edo nahiko altuak erregistratzen dituzten herrialdeen proportzioa, elikagaien prezioen anomalien adierazlearen arabera (%) AG_FPA_HMFP</a> UNSTATS

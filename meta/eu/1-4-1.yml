@@ -10,24 +10,24 @@ meta_global: meta_largo.1-4-titulo
 
 definicion: | 
 
-  Serie eskuragarriak: 
+  Eskuragarri dauden serieak: 
 
-  <b> Ur korrontea duten etxebizitzen proportzioa:</b>
+  <b> - Txorrotako ura duten etxebizitzen proportzioa:</b> 
   Ur-hornidura duten etxebizitza nagusien proportzioa
   
-  <b>Bainugela duten etxebizitzen proportzioa:</b>
+  <b> - Bainugela duten etxebizitzen proportzioa:</b> 
   Bainugela duten etxebizitza nagusien proportzioa
 
 
 formula: |
 
-  <b>Ur korrontea duten etxebizitzen proportzioa</b>
+  <b>Txorrotako ura duten etxebizitzen proportzioa</b>
 
-  $$PVP_{ur\, korrontea}^{t} = \frac{VP_{ur\, korrontea}^{t}}{VP^{t}} \cdot 100$$
+  $$PVP_{txorrotako\, ura}^{t} = \frac{VP_{txorrotako\, ura}^{t}}{VP^{t}} \cdot 100$$
 
   non:
 
-  $VP_{ur\, korrontea}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
+  $VP_{txorrotako\, ura}^{t} =$ ur-hornidura duten etxebizitza nagusiak $t$ urtean
 
   $VP^{t} =$ etxebizitza nagusiak $t$ urtean
 
