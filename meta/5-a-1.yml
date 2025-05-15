@@ -40,7 +40,7 @@ formula: |
   $TEA^{t} =$ heads of agricultural holdings in year $t$ by type of tenure
 
 desagregacion: |
-  Type of tenure: Ownership, lease
+  Type of tenure: Ownership; lease
 
   Sex
 

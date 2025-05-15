@@ -36,7 +36,7 @@ formula: |
   $d$ = Disadvantaged group (women, poorer people, people living in small towns, people 
   with limitations due to health problems)
 
-  $d$ = Favored group (men, wealthier people, people living in large municipalities,
+  $a$ = Favored group (men, wealthier people, people living in large municipalities,
   people without health limitations)
 
 desagregacion: >- 
@@ -58,12 +58,13 @@ texto_oceca: FUENTE.oceca
  # Metadatos mundiales (Descripción del indicador)  
 
 
-justificacion_global: >-
+justificacion_global: >- 
+
   To measure the general level of disparity between two sub-populations of interest 
   with regard to a given indicator. The further from 1 the parity index lies, the greater 
-  the disparity between the two groups of interest.
+  the disparity between the two groups of interest. 
 
-  Source: United Nations Statistics Division
+  Source: United Nations Statistics Division 
 
 
 dato_global: >-

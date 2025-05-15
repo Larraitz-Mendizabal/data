@@ -41,7 +41,7 @@ formula: |
 
   <br>
 
-  <b>Proportion of domestic wastewater flows connected to a collection systemc</b>
+  <b>Proportion of domestic wastewater flows connected to a collection system</b>
 
     $$PCC_{\text{collectors}}^{t} =
     \left( \frac{CC_{\text{collectors}}^{t}}{CC^{t}} \cdot 100 \right)$$
