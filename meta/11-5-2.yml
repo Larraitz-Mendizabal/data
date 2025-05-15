@@ -23,7 +23,7 @@ formula: |
 
   where:
 
-  $IDP^{t}$ = compensation for personal injuries paid and/or provisioned in year $t$  at prices of year $T$
+  $IDP^{t}$ = compensation for personal injuries paid and/or provisioned in year $t$ at prices of year $T$
 
   $IPP^{t}$ = compensation for pecuniary losses paid and/or provisioned in year $t$ at prices of year $T$
 

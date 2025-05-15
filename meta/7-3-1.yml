@@ -10,7 +10,7 @@ meta_global: meta_largo.7-3-titulo
 
 definicion: |
 
-  - Energy intensity level of primary energy (megajoules per GDP in constant 2017 purchasing power parity) 
+  Energy intensity level of primary energy (megajoules per GDP in constant 2017 purchasing power parity) 
 
 formula: |
 
@@ -20,7 +20,7 @@ formula: |
 
   $CE^{t} =$ gross domestic energy consumption in the year $t$
 
-  $PIB^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
+  $PIB_{2017PPA}^{t} =$ gross domestic product at purchasing power parity in constant 2017 USD prices in the year $t$ 
 
 
 desagregacion: >- 

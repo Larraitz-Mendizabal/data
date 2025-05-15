@@ -21,7 +21,7 @@ formula: |
   $PR^{t} =$ people with a refugee identity document, subsidiary protection identity document or temporary residence authorization
   due to exceptional circumstances in force on December 31 of the year $t$
 
-  ${P^{t+1} =$  population on January 1 of year $t+1$
+  $P^{t+1} =$  population on January 1 of year $t+1$
 
 desagregacion: 
 

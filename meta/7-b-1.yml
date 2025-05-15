@@ -19,9 +19,9 @@ formula: |
 
   where:
 
-  $CINST_{renewable}^{t} =$ Installed renewable electricity-generating capacity in year $t$ 
+  $CINST_{renewable}^{t} =$ installed renewable electricity-generating capacity in year $t$ 
 
-  $P^{t} =$ total popùlation in year  $t$
+  $P^{t} =$ total population in year $t$
 
 
 desagregacion: |

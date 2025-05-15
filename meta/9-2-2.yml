@@ -17,7 +17,7 @@ formula:  |
 
   where:
 
-  $PO_{manufacturing}^{t} =population employed in the manufacturing sector (section C of the National 
+  $PO_{manufacturing}^{t} = population employed in the manufacturing sector (section C of the National 
   Classification of Economic Activities (CNAE-2009)) in year $t$
 
   $PO^{t} =$ employed population in year $t$

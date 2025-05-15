@@ -36,7 +36,7 @@ formula:  |
 
   <br>
 
-  <b>Domestic material consumption per capita:</b>
+  <b>Domestic material consumption per capita</b>
 
   $$CMDPC^{t} = \frac{{CMD^{t}}}{P^{t}}$$
 
@@ -48,7 +48,7 @@ formula:  |
 
   <br>
 
-  <b>Domestic material consumption per unit of GDP:</b>
+  <b>Domestic material consumption per unit of GDP</b>
 
   $$CMDPIB^{t} = \frac{{CMD^{t}}}{PIB_{2022}^{t}}$$
 

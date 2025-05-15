@@ -20,7 +20,7 @@ formula:  |
 
   $G^{t} =$ gross earnings of salaried personnel in year $t$
 
-  $H^{t} =$ normal working hours of salaried staff in year $t$
+  $H^{t} =$ normal working hours of salaried personnel in year $t$
 
   <br>
 
@@ -37,7 +37,7 @@ formula:  |
 desagregacion:  |
   Sex
 
-  People without disabilities, and with disabilities (salaried employees 
+  People without disabilities and people with disabilities (salaried employees 
   with a disability level of 33% or greater) 
 
 periodicidad: FUENTE.FREQ_A
