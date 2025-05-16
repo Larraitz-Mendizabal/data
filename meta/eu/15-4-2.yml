@@ -16,7 +16,7 @@ formula: |
 
   $$PSMV^{t} = \frac{SMV^{t}}{SM^{t}} \cdot 100$$
 
- non:
+  non:
 
   $SMV^{t} =$ basoek, larreek eta laborantza-lurrek estalitako mendi-eremuen azalera $t$ urtean
 
