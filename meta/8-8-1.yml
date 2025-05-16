@@ -13,7 +13,7 @@ definicion: >-
 
 formula: |
 
-  $IACC_{severity}^{t} = \frac{ACC_{severity}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
+  $$IACC_{severity}^{t} = \frac{ACC_{severity}^{t}}{PE_{OIT}^{t}} \cdot 100.000$$
 
   where:
 
@@ -23,7 +23,7 @@ formula: |
 
 desagregacion: |
 
-  Severity: Fatal, non-fatal
+  Severity: Fatal; non-fatal
 
   Sex
 

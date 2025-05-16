@@ -15,7 +15,7 @@ definicion:  |
   pay or benefit, or who did not work but had a job from which they were temporarily absent. 
 
 formula:  |
-  <b>Employment rate:</b>
+  <b>Employment rate</b>
 
   $$TA^{t} = \frac{PO^{t}}{P^{t}} $$
 

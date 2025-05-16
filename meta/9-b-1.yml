@@ -17,9 +17,9 @@ formula:  |
 
   where:
 
-  $VAB_{manufacturing\, medium-high\, and\, high}^{t} $ gross value added of the manufacturing sector corresponding to medium-high and high technology activities in year $t$
+  $VAB_{manufacturing\, medium-high\, and\, high}^{t} $ = gross value added of the manufacturing sector corresponding to medium-high and high technology activities in year $t$
 
-  $VAB_{manufacturing}^{t} $ gross value added of the manufacturing sector in year $t$
+  $VAB_{manufacturing}^{t} $ = gross value added of the manufacturing sector in year $t$
 
 
 desagregacion:  
@@ -37,7 +37,7 @@ observaciones:  |
     and spacecraft and its machinery 
   - 32.5: Manufacture of medical and dental instruments and supplies
   
-  High technology
+  High technology 
   - 21: Manufacture of pharmaceuticals
   - 26: Manufacture of computer, electronic and optical products
   - 30.3: Aeronautical and space construction and its machinery

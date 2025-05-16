@@ -25,7 +25,7 @@ formula: |
 
 desagregacion: >- 
   
-  Suspended particles: particles smaller than 10 microns (PM10), particles smaller than 2.5 microns (PM25)
+  Suspended particles: particles smaller than 10 microns (PM10); particles smaller than 2.5 microns (PM25)
 
 observaciones:
 

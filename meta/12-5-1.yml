@@ -8,7 +8,7 @@ meta_global: meta_largo.12-5-titulo
 #  indicador_onu_global: indicador_largo.12-5-1-titulo
 
 definicion: >-
-  Proportion of urban or municipal waste recycled compared to the total amount of municipal waste generated 
+  Proportion of urban waste recycled compared to the total amount of urban waste generated 
   by households and the services sector (businesses, offices and public or private institutions), 
   which is treated and managed by the Local Entities
 
@@ -18,9 +18,9 @@ formula: |
 
   where: 
 
-  ${RU_{recycled}^{t} =$ amount of urban or municipal waste recycled in year $t$
+  $RU_{recycled}^{t} =$ amount of urban  waste recycled in year $t$
 
-  $RU^{t} =$ total amount of urban or municipal waste generated and treated in yea $t$
+  $RU^{t} =$ total amount of urban waste generated and treated in yea $t$
 
 
 desagregacion: |
