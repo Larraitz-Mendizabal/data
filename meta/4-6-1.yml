@@ -14,11 +14,11 @@ definicion: >-
 
 formula: |
 
-  $$PPN2_{c}^{t} = \frac{PN2_{16-65,c}^{t}}{P_{16-65}^{t}}$$
+  $$PPN2_{c}^{t} = \frac{PN2_{16-65\,c}^{t}}{P_{16-65}^{t}}$$
 
   where:
 
-  $PN2_{16-65\, c}^{t} =$ Population aged 16 to 65 who have achieved at least level 2 
+  $PN2_{16-65\,c}^{t} =$ Population aged 16 to 65 who have achieved at least level 2 
   of proficiency on $c$ type of competence in the year $t$
 
   $P_{16-65}^{t} =$ population aged 16 to 65 in year $t$

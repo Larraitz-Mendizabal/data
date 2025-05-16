@@ -15,7 +15,7 @@ formula: |
 
   $$PPMOV_{16-74}^{t} = \frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$
 
-  donde:
+  where:
 
   $PMOV_{16-74}^{t} =$ Proportion of people aged between 16 and 74 who have used a mobile phone in the last three months in year $t$
 

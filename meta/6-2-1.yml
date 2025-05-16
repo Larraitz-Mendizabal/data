@@ -8,13 +8,12 @@ meta_global: meta_largo.6-2-titulo
 #  indicador_onu_global: indicador_largo.6-2-1-titulo
 
 definicion: >-
-  Available series: 
+  Available series:  
 
-  <b> Proportion of homes with running water:</b>
-  Proportion of main family dwellings with running water supply
+   - Proportion of homes with running water: Proportion of main family dwellings with 
+   running water supply
   
-  <b>Proportion of homes with a bathroom:</b>
-  Proportion of main family dwellings with a bathroom
+   - Proportion of homes with a bathroom: Proportion of main family dwellings with a bathroom 
 
 formula: |
   <b>Proportion of homes with running water</b>
@@ -87,7 +86,11 @@ dato_global: |
 comparabilidad: >-
   The available indicator does not comply with United Nations metadata but provides similar information
 
-indicador_meta_enlace: '<a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01.pdf">Metadata 6-2-1.pdf</a>'
+indicador_meta_enlace: |
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01a.pdf">Metadata 6-2-1(a).pdf</a> 
+
+  <a href="https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01b.pdf">Metadata 6-2-1(b).pdf</a>
 
 informacion_interes: 
 

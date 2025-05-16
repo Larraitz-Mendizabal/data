@@ -22,7 +22,7 @@ formula: |
 
   $P^{\text{cohort}\, t - c}=$ total population of the cohort born in $t-c$
 
-  ${c}=$ el interval of years that defines the specific cohort for each vaccine (c=1 or cohort born at t-1 for DPTa and VNC, c=5 for SRP and c=13 for VPH)
+  ${c}=$ interval of years that defines the specific cohort for each vaccine (c=1 or cohort born at t-1 for DPTa and VNC, c=5 for SRP and c=13 for VPH)
 
 desagregacion:  |
   Vaccine type: 
@@ -80,6 +80,7 @@ justificacion_global: |
   who received the recommended doses of HPV vaccine. Currently performance of the programme 
   in the previous calendar year based on target age group is used. 
 
+  Source: United Nations Statistics Division
 
 dato_global: |
 
